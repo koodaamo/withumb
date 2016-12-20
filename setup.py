@@ -1,13 +1,12 @@
 from setuptools import setup, find_packages
 import sys, os
 
-version = '0.1'
+version = '0.2'
 
 setup(name='withumb',
       version=version,
       description="Tools and utilities for the WiThumb",
-      long_description="""\
-""",
+      long_description="",
       classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
       keywords='withumb iot usb',
       author='Petri Savolainen',
