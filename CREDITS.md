@@ -1,4 +1,5 @@
+# Credits
 
 
- * Petri Savolainen (package author)
- * Thomas Lee (WiThumb creator)
+* Petri Savolainen (package author)
+* Thomas Lee (WiThumb creator)
